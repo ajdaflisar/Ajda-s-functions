@@ -1,7 +1,7 @@
 # Ajda-s-functions
 This is a repository with two functions: remind_me and cheat
 
-Tryout my remind_me function:
+#Tryout my remind_me function:
 
 remind_me()
 
